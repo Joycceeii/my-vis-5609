@@ -16,7 +16,7 @@
   <h1>Joy's VIS Site</h1>
   <img
     width="200px"
-    src="\Favorite.png"
+    src="Favorite.png"
     alt="My favorite game and my pets"
   />
   <div>
